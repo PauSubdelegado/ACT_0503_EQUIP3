@@ -1,0 +1,13 @@
+site_name: Documentació tècnica del projecte
+site_description: Manual tècnic del cas pràctic de desplegament
+site_author: Equip 3
+theme:
+  name: material
+nav:
+  - Inici: index.md
+  - Arquitectura: arquitectura.md
+  - Instal·lació: instal·lacio.md
+  - Configuració: configuracio.md
+  - Desplegament: desplegament.md
+  - Proves: proves.md
+  - Incidències: incidencies.md
